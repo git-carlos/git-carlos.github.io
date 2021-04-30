@@ -1,2 +1,2 @@
 # git-carlos.github.io
-Portfolio github-website with social media and contact information.
+This is the only file available on the site right now, cool stuff is under construction.
