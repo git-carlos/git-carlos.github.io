@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: projects & research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Programming projects and engineering research. Please interact with any of the following posts to examine.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [computer science, engineering]
 horizontal: false
 ---
 
