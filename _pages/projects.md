@@ -2,7 +2,7 @@
 layout: page
 title: projects & research
 permalink: /projects/
-description: Programming projects and engineering research. Please interact with any of the following posts to examine.
+description: programming projects, engineering research, & academic endeavors
 nav: true
 nav_order: 2
 display_categories: [computer science, engineering]
