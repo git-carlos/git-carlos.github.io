@@ -1,12 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Carlos R. Pantoja-Malaga
     - name: Email
-      value: 
-    - name: School Email
-      value:
+      value: <pre>64\65\76\2e\70\61\6e\74\6f\6a\61\6d\61\6c\61\67\61\40\67\6d\61\69\6c\2e\63\6f\6d</pre>Convert the hexadecimal to ASCII to view.
     - name: LinkedIn
       value: <a href="https://linkedin.com/in/git-carlos/" target="_blank">git-carlos</a>
     - name: GitHub
@@ -17,6 +15,17 @@
   contents:
     - title: Bachelor of Science, Computer Science
       institution: Florida State University
-      year: 2023
+      year: 2019 - 2023
       description:
-        - Completed minors in Physics and Mathematics.
+        - Minored in Physics and Mathematics.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Systems Engineer I - Integrated Power Systems
+      institution: General Dynamics Electric Boat
+      year: 2023 - Present
+      description:
+        - Working within Integrated Power Systems Department.
+        - Providing engineering oversight over processes concerning the construction of the Columbia class submarine.
+        - Facilitating implementations of design and process improvements.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects & research
+title: projects
 permalink: /projects/
-description: programming projects, engineering research, & academic endeavors
+description: personal projects
 nav: true
 nav_order: 2
-display_categories: [computer science, engineering]
+display_categories: [engineering, computer science, miscellaneous]
 horizontal: false
 ---
 
