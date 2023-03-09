@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: personal projects
+description: projects organized by category
 nav: true
 nav_order: 2
 display_categories: [engineering, computer science, miscellaneous]
