@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: systems engineer, programmer, & cool guy
+subtitle: systems engineer & programmer
 
 profile:
   align: right
@@ -21,7 +21,9 @@ I am Carlos Pantoja-Malaga, an undergraduate student at Florida State University
 
 I am excited to announce that I have accepted a position at General Dynamics under the Electric Boat subdivision, where I will be working as a Systems Engineer. I am excited for this opportunity to work for such an established company and look forward to working on projects which strengthen United States naval dominance.
 
-The purpose of this portfolio site is to document engineering, computer science, and miscellaneous personal endeavors. Feel free to browse these projects as you may find some of these interesting. Due to the nature of my work at General Dynamics, all projects published on this portfolio site or on GitHub are strictly personal and unrelated to my professional endeavors.
+The purpose of this portfolio site is to document computer science projects and miscellaneous personal endeavors. Feel free to browse these projects as you may find some of these interesting. 
+
+Due to the nature of my work at General Dynamics, all projects published on this portfolio site or on GitHub are strictly personal and unrelated to my professional endeavors.
 
 
 
