@@ -19,13 +19,11 @@
       description:
         - Minored in Physics and Mathematics.
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Systems Engineer I - Integrated Power Systems
+    - title: Systems Engineer I
       institution: General Dynamics Electric Boat
       year: 2023 - Present
       description:
-        - Working within Integrated Power Systems Department.
-        - Providing engineering oversight over processes concerning the construction of the Columbia class submarine.
-        - Facilitating implementations of design and process improvements.
+        - Integrated Power Systems Department.
