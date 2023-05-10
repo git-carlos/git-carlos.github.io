@@ -22,6 +22,7 @@ I am Carlos Pantoja-Malaga and this is my portfolio website. I am a graduate fro
 The purpose of this portfolio website is to document computer science projects and miscellaneous personal endeavors. Feel free to browse these projects as you may find some of these interesting. 
 
 5/10/2023
+
 In recent news, I am excited to announce that I have accepted a position at General Dynamics under the Electric Boat subdivision, where I will be working as a Systems Engineer.
 
 Due to the sensitive nature of my work at General Dynamics, all projects on this portfolio website or on GitHub are unrelated to my professional endeavors. These projects are strictly personal or refactored academic assignments.
