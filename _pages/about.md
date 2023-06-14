@@ -2,14 +2,14 @@
 layout: about
 title: about me
 permalink: /
-subtitle: systems engineer & programmer
+subtitle: computer science graduate
 
 profile:
   align: right
   image: myself.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <pre>Relocating: <br>New London, CT</pre>
+    <pre>Located In: <br>Fort Myers, FL</pre>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -21,7 +21,7 @@ I am Carlos Pantoja-Malaga and this is my portfolio website. I am a graduate fro
 
 The purpose of this portfolio website is to document computer science projects and miscellaneous personal endeavors. Feel free to browse these projects as you may find some of these interesting. 
 
-5/10/2023
+6/1/2023
 
 In recent news, I am excited to announce that I have accepted a position at General Dynamics under the Electric Boat subdivision, where I will be working as a Systems Engineer.
 
