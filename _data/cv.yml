@@ -18,3 +18,12 @@
       year: 2019 - 2023
       description:
         - Minored in Physics and Mathematics.
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Systems Engineer I
+      institution: General Dynamics Electric Boat
+      year: 2023 - Present
+      description:
+        - Integrated Power Systems Department.
