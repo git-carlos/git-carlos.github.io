@@ -9,7 +9,7 @@ profile:
   image: myself.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <pre>Located In: <br>New London, CT</pre>
+    <pre>Located in: <br>Connecticut</pre>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello.
 
-I am Carlos Pantoja-Malaga and this is my portfolio website. I am a graduate from Florida State University where I earned a Bachelor of Science in Computer Science. Currently, I work as a Systems Engineer at General Dynamics, under the Electric Boat subdivision.
+I am Carlos Pantoja-Malaga and this is my portfolio website. I am a graduate from Florida State University where I earned a Bachelor of Science in Computer Science. Currently, I work as a Systems Engineer at General Dynamics Electric Boat.
 
 The purpose of this portfolio website is to document computer science projects and miscellaneous personal endeavors. Feel free to browse these projects as you may find some of these interesting.
 
