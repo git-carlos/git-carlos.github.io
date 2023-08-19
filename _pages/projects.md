@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: projects organized by category
-nav: true
+nav: false
 nav_order: 2
 display_categories: [computer science, miscellaneous]
 horizontal: false
