@@ -19,7 +19,7 @@ Hello.
 
 I am Carlos Pantoja-Malaga, a graduate of Florida State University, where I earned a Bachelor of Science in Computer Science.
 
-Currently, I work as a Systems Engineer with professonal interests in project management and processes optimization.
+Currently, I work as a Systems Engineer with career interests in project management and processes optimization.
 
 The purpose of this website is to house my resume and all information regarding my professional endeavors are a mirror of my LinkedIn, which is also accesible through this front page.
 
