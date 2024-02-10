@@ -19,4 +19,4 @@ Hello.
 
 I am Carlos, a graduate of Florida State University, where I earned a Bachelor of Science in Computer Science.
 
-Currently, I work as a Systems Engineer with a career interest in implementation of practical electrical systems for temporary equipment configurations.
+Currently, I work as a Systems Engineer with at General Dynamics Electric Boat.
