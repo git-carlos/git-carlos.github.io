@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: carlos pantoja-malaga
+title: hire carlos (dot) com
 first_name: carlos
 middle_name:
 last_name: pantoja-malaga
 email:
 description: >
-  Resume website for Carlos Pantoja-Malaga.
+  Online Resume for Carlos Pantoja-Malaga.
 footer_text: >
   powered by <a href="https://jekyllrb.com/" target="_blank">jekyll</a> utilizing <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. served through <a href="https://pages.github.com/" target="_blank">github pages</a>!
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
@@ -65,11 +65,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: git-carlos
+github_username: #
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: git-carlos
+linkedin_username: carlos-career
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID

@@ -6,9 +6,7 @@
     - name: Email
       value: <pre>64\65\76\2e\70\61\6e\74\6f\6a\61\6d\61\6c\61\67\61\40\67\6d\61\69\6c\2e\63\6f\6d</pre>Convert the hexadecimal to ASCII to view.
     - name: LinkedIn
-      value: <a href="https://linkedin.com/in/git-carlos/" target="_blank">git-carlos</a>
-    - name: GitHub
-      value: <a href="https://github.com/git-carlos" target="_blank">git-carlos</a>
+      value: <a href="https://linkedin.com/in/carlos-career/" target="_blank">carlos-career</a>
 
 - title: Education
   type: time_table

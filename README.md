@@ -4,7 +4,7 @@ Forked off ```al-folio``` repository
 Revisions done by Carlos Pantoja-Malaga for GitHub Repository ```git-carlos.github.io```.
 
 ## Description
-All credits due to the original creators and maintainers of the ```al-folio``` repository.
+All credits are due to the original creators and maintainers of the ```al-folio``` repository.
 
 This fork maintains the portfolio website for Carlos Pantoja-Malaga.
 
