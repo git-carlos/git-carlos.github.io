@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello!
+Hello.
 
-The purpose of this website is to have my resume easily accessible online.
+The purpose of this website is to have my resume accessible online.
 
-I currently work as an Engineer at General Dynamics Electric Boat.
+I currently work as an Engineer for General Dynamics Electric Boat.
